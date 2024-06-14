@@ -1,21 +1,21 @@
 # Informática aplicada a Logistica
 Trabalhos da matéria de Informática Aplicada a Logística
 
-##Excel
+## Excel
 <img src="./Excel Panelas_pressão.png" />
 <img src="./Excel_Produtos.png" />
 <img src="./Excel Sorvete.png" />
 
-#Excel Finanças
+## Excel Finanças
 <img src="./Excel aula finaças.png" />
 <img src="./Excel aula_planilha3_finanças.png" />
 <img src="./Excel aula finaças Lista Dinâmica.png" />
 
-##PowerBI
+## PowerBI
 <img src="./PowerBI 01.png" />
 <img src="./Power BI 02.png" />
 <img src="./Power BI 03.png" />
 
-##Powerautomate
+## Powerautomate
 <img src="./Powerautomate.png" />
 
